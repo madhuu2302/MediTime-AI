@@ -1,7 +1,9 @@
 MediTime AI 💊
+
 MediTime AI is an AI-powered medicine reminder and medication adherence system designed to help users take medicines on time, track their medication schedule, and improve health management.
 
 ~ Problem Statement
+
 Many people forget to take medicines at the correct time, which affects treatment effectiveness. This project provides a smart solution to improve medication adherence using Artificial Intelligence.
 
 ~ Objectives
@@ -26,6 +28,7 @@ Many people forget to take medicines at the correct time, which affects treatmen
 * Scikit-learn
 
 ~ Project Structure
+
 MediTime-AI
 │
 ├── app.py
@@ -44,10 +47,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 #Dataset
+
 The dataset contains medicine schedules and adherence-related information used for analysis and prediction.
 <img width="762" height="432" alt="Screenshot 2026-06-21 184722" src="https://github.com/user-attachments/assets/55875545-07ef-490d-a245-49ff57d9340a" />
 
 #Outcome
+
 MediTime AI helps users maintain regular medication habits and supports improved health outcomes.
 <img width="1067" height="862" alt="Screenshot 2026-06-21 200507" src="https://github.com/user-attachments/assets/e8dd74d9-be64-41e1-81a0-b8f913403e31" />
 
