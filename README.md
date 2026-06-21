@@ -1,4 +1,4 @@
-MediTime AI 💊
+MediTime AI 💊- Smart Medicine Reminder & Health Assistant
 
 MediTime AI is an AI-powered medicine reminder and medication adherence system designed to help users take medicines on time, track their medication schedule, and improve health management.
 
