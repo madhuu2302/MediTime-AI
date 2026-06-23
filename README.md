@@ -69,5 +69,4 @@ MediTime AI helps users maintain regular medication habits and supports improved
 Author
 
 Madhumitha.U
-
 BSc Computer Science with AI
